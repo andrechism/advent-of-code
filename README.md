@@ -6,4 +6,5 @@ Here, I'll upload my solutions to each puzzle.
 
 
 
-![image](https://github.com/andrechism/advent-of-code/assets/57547336/5942d137-530b-4daa-80a2-fa956a1e2c52)
+![image](https://github.com/andrechism/advent-of-code/assets/57547336/01256d74-07dd-4ef0-a80e-536ecb86c22d)
+
